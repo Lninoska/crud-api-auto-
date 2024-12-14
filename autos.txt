@@ -1,0 +1,28 @@
+{
+  "1": {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "año": 2022
+  },
+  "2": {
+    "marca": "Honda",
+    "modelo": "Civic",
+    "año": 2023
+  },
+  "3": {
+    "marca": "Ford",
+    "modelo": "Focus",
+    "año": 2021
+  },
+  "505fbb33-8698-4079-b3d9-df7440f27b0d": {
+    "marca": "Chevorlet",
+    "modelo": "Cruze",
+    "año": 2020
+  },
+  "2badce4f-923e-463b-972a-f114f4e8f9e1": {
+    "marca": "Chevorlet",
+    "modelo": "Cruze",
+    "año": 2020
+  }
+}
+
